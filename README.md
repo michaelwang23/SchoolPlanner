@@ -1,2 +1,1 @@
-# BearTracks
-BearTracks Git Repository
+# SchoolPlanner for UC Berkeley Students
